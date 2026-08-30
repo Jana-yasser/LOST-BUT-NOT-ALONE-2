@@ -46,9 +46,9 @@ A short video about how to play: https://youtu.be/EHLnRd7ERE0
 
 ## Screenshots
 Start screen
-![Start Screen](start(2).png)
+![Start Screen](start (2).png)
 Ending screen
-![Ending Screen](finish(2).png)
+![Ending Screen](finish (2).png)
 while drawing
 ![ While drawing](11.png)
 while drawing
