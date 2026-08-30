@@ -38,7 +38,7 @@ started working on it until I finished Lost but not Alone. I really like this ga
 - JavaScript
 
 ## Demo
-![demo link] (https://jana-yasser.github.io/LOST-BUT-NOT-ALONE-2/)
+ (https://jana-yasser.github.io/LOST-BUT-NOT-ALONE-2/
 
 ## Gameplay
 
@@ -66,6 +66,6 @@ while drawing
 I used it to explain how to do some features that I didn't know, especially JavaScript and its errors.
 
 ## Credits
-Piskel (https://www.piskelapp.com/) for drawing the game 
-Pixabay (https://share.google/AJexHLT8oV6xgahDX) for downloading sounds 
-Google (https://share.google/bycLKMpUa7cVB0XBo) for fonts
+1. Piskel (https://www.piskelapp.com/) for drawing the game 
+2. Pixabay (https://share.google/AJexHLT8oV6xgahDX) for downloading sounds 
+3. Google (https://share.google/bycLKMpUa7cVB0XBo) for fonts
