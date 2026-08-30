@@ -38,7 +38,7 @@ started working on it until I finished Lost but not Alone. I really like this ga
 - JavaScript
 
 ## Demo
- (https://jana-yasser.github.io/LOST-BUT-NOT-ALONE-2/
+ https://jana-yasser.github.io/LOST-BUT-NOT-ALONE-2/
 
 ## Gameplay
 
