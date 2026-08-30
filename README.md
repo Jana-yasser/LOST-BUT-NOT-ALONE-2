@@ -38,7 +38,7 @@ started working on it until I finished Lost but not Alone. I really like this ga
 - JavaScript
 
 ## Demo
-
+![demo link] (https://jana-yasser.github.io/LOST-BUT-NOT-ALONE-2/)
 
 ## Gameplay
 
@@ -46,9 +46,9 @@ A short video about how to play: https://youtu.be/EHLnRd7ERE0
 
 ## Screenshots
 Start screen
-![Start Screen](start (2).png)
-Ending screen
-![Ending Screen](finish (2).png)
+![Start Screen](lel.png)
+Map 
+![Ending Screen](maps.png)
 while drawing
 ![ While drawing](11.png)
 while drawing
