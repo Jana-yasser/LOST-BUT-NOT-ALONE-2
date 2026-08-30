@@ -39,7 +39,6 @@ started working on it until I finished Lost but not Alone. I really like this ga
 
 ## Demo
 
-https://jana-yasser.github.io/Lost-but-not-Alone/
 
 ## Gameplay
 
@@ -47,11 +46,10 @@ A short video about how to play: https://youtu.be/EHLnRd7ERE0
 
 ## Screenshots
 
-Start Screen
+![Start Screen](start(2).png)
 
-Map
-
-Ending Screen
+![Ending Screen](finish(2).png)
+![ While drawing](11
 
 ## Challenges and What I Learned
 
@@ -65,6 +63,6 @@ Ending Screen
 I used it to explain how to do some features that I didn't know, especially JavaScript and its errors.
 
 ## Credits
-
-Pixabay (https://share.google/AJexHLT8oV6xgahDX) for downloading sounds and pictures.
+Piskel (https://www.piskelapp.com/) for drawing the game 
+Pixabay (https://share.google/AJexHLT8oV6xgahDX) for downloading sounds 
 Google (https://share.google/bycLKMpUa7cVB0XBo) for fonts
