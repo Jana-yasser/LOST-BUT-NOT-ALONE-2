@@ -47,9 +47,9 @@ A short video about how to play: https://youtu.be/EHLnRd7ERE0
 ## Screenshots
 
 ![Start Screen](start(2).png)
-
 ![Ending Screen](finish(2).png)
-![ While drawing](11
+![ While drawing](11.png)
+![while](12.png)
 
 ## Challenges and What I Learned
 
